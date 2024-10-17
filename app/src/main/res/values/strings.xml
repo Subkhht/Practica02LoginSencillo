@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Practica02</string>
+    <string name="vacio"> </string>
+    <string name="vacioContra"> </string>
+    <string name="login">LOGIN</string>
+    <string name="login_incorrecto">Login Incorrecto</string>
+    <string name="alejandrohernandez_gmail_com">alejandrohernandez@gmail.com</string>
+    <string name="bienvenido">Bienvenido</string>
 </resources>
